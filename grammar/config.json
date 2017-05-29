@@ -1,0 +1,11 @@
+[
+  "initializer.pegjs",
+
+  "ECS.pegjs",
+
+  "common/common.pegjs",
+
+  "code_block/code_block.pegjs",
+
+  "code_block/comment_block/comment_block.pegjs"
+]

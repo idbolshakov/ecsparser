@@ -1,0 +1,8 @@
+# ignore nodejs modules
+node_modules*
+
+# ignore vim swap
+*.swp
+
+# ignore npm debug
+npm-debug.log*

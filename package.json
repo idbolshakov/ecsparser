@@ -1,0 +1,19 @@
+{
+  "name": "ecsparser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "testwatcher": "mocha --recursive --watch test/tests/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "idbolshakov@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "pegjs": "^0.10.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.3.0",
+    "sinon": "^2.2.0"
+  }
+}
